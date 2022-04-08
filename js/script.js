@@ -7,3 +7,8 @@ multi line
 comment
 */
 
+const myName = {
+    firstName: "alex" , lastName: "razo" , favoriteFood: "tacos"
+}
+
+console.log(myName); 
